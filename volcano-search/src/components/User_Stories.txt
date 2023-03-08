@@ -1,6 +1,10 @@
 As a user,
             I need to be able to search for a certain volcano.
+                -needed when expanding the map for other events?
             I need to see multiple layer images for a volcano.
             I need to view a brief summary of a volcano when I find its location.
+                -Info Card popup 
             I want to be able to mouse navigate on the map.
+                -done with Leaflet
             I want to see a history of the volcano when I have the info card open.
+                -Link to Smithsonian answers this
